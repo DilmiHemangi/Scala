@@ -288,3 +288,5 @@ Caused by: java.lang.IllegalArgumentException: 13 is not a valid line number, al
 
 2022.07.10 18:28:28 WARN  no build target for: C:\Users\acer\Desktop\scala-practical\q4_b.scala
 2022.07.10 18:30:05 WARN  no build target for: C:\Users\acer\Desktop\scala-practical\q4_b.scala
+2022.07.10 18:38:28 WARN  no build target for: C:\Users\acer\Desktop\scala-practical\q4_b.scala
+2022.07.10 18:47:25 INFO  shutting down Metals
